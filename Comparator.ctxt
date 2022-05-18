@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Comparator
+comment0.text=\n\ Write\ a\ description\ of\ class\ Comparator\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Comparator()
+comment2.params=a\ b\ h
+comment2.target=Comparator(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getHits()
+comment4.params=directory
+comment4.target=int\ compareTo(Comparator)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

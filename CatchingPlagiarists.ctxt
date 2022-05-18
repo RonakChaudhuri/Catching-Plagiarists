@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CatchingPlagiarists
+comment0.text=\n\ Write\ a\ description\ of\ class\ CatchingPlagiarists\ here.\n\n\ @author\ Ronak\ Chaudhuri\n\ @version\ May\ 22nd,\ 2020\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numWords\ directory\ filename
+comment2.target=java.util.ArrayList\ phrases(int,\ java.lang.String,\ java.lang.String)
+comment3.params=File_A\ File_B\ File_Asize\ File_Bsize
+comment3.target=int\ hitList(java.util.ArrayList,\ java.util.ArrayList,\ int,\ int)
+comment4.params=unsortedList\ files
+comment4.target=java.util.ArrayList\ sort(java.util.ArrayList,\ java.util.List)
+numComments=5
